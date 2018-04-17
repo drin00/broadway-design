@@ -1,0 +1,50 @@
+body{
+  text-align: center;
+}
+h1, h2, h3, p, nav{
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 70px;
+}
+
+.link{
+  font-size: 18px;
+}
+a:visited{
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.white{
+  color: white;
+}
+
+img{
+  margin: auto;
+}
+
+p{
+  font-size: 14px;
+}
+
+.footer{
+  font-size: 11px;
+}
+
+.lower-nav{
+  text-align: left;
+  background: dimgray;
+}
